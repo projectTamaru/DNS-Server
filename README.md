@@ -22,13 +22,13 @@ Run the .exe provided [on the releases page](https://github.com/RiiConnect24/Rii
 
 You will need to install Python 3 and run these commands in the Terminal.
 
-> pip install dnslib requests
+> python3 -m pip install dnslib requests
 
 To run it, simply type in:
 
 > sudo python3 RiiConnect24-DNS-Server.py
 
-Replace `python3` with the name/path to your Python binary if necessary
+Replace `p RiiConnect24-DNS-Server.py` with the name/path to your file if necessary
 
 # How to use it?
 
